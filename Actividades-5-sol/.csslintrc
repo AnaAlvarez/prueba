@@ -1,0 +1,13 @@
+{
+  "adjoining-classes": false,
+  "box-model": false,
+  "box-sizing": false,
+  "bulletproof-font-face": false,
+  "import": false,
+  "order-alphabetical": false,
+  "overqualified-elements": false,
+  "qualified-headings": false,
+  "regex-selectors": false,
+  "unqualified-attributes": false,
+  "unique-headings": false
+}
